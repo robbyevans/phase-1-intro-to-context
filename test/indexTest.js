@@ -146,6 +146,7 @@ describe("The payroll system", function () {
     })
   })
 
+
   describe("Given an employee record with a date-matched timeInEvent and timeOutEvent", function () {
 
     it("hoursWorkedOnDate calculates the hours worked when given an employee record and a date", function () {
